@@ -18,3 +18,6 @@ We should control the level of coupling in our application
 ### Single Responsability Principle
 
 * There should never be more than one reason for a class to change
+
+### Open Closed Principle
+* a class should be designed in such a way that it can be extended to add new functionality without modifying the existing code.
