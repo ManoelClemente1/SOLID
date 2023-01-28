@@ -21,3 +21,12 @@ We should control the level of coupling in our application
 
 ### Open Closed Principle
 * a class should be designed in such a way that it can be extended to add new functionality without modifying the existing code.
+
+### Liskov Substitution Principle
+* A derived class can be substitutable for its base class.
+
+### Interface Segregation Principle
+* Classes should not be forced to depend on methods they do not use.
+
+### Dependency Inversion Principle
+* Classes should not be forced to depend on methods they do not use.
