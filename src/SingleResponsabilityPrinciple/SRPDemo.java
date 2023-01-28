@@ -1,4 +1,4 @@
-package srp;
+package SingleResponsabilityPrinciple;
 
 public class SRPDemo {
 

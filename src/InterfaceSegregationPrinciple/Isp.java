@@ -1,4 +1,4 @@
-package isp;
+package InterfaceSegregationPrinciple;
 
 public class Isp {
 

@@ -1,4 +1,4 @@
-package lsp;
+package LiskovSubstituitionPrinciple;
 
 public class CreditCard extends Card{
 

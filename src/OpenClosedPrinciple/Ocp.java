@@ -1,7 +1,7 @@
-package ocp;
+package OpenClosedPrinciple;
 
-import ocp.vehicles.Car;
-import ocp.vehicles.Motorcycle;
+import OpenClosedPrinciple.vehicles.Car;
+import OpenClosedPrinciple.vehicles.Motorcycle;
 
 public class Ocp {
 

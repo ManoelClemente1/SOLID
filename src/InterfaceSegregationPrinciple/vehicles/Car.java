@@ -1,6 +1,4 @@
-package isp.vehicles;
-
-import isp.vehicles.IVehicle;
+package InterfaceSegregationPrinciple.vehicles;
 
 public class Car implements IVehicle, IVehicleCar {
 

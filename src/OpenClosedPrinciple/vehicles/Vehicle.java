@@ -1,4 +1,4 @@
-package ocp.vehicles;
+package OpenClosedPrinciple.vehicles;
 
 public class Vehicle {
     protected String color;

@@ -1,4 +1,4 @@
-package lsp;
+package LiskovSubstituitionPrinciple;
 
 public class Rewards implements IPaymentInstrument {
 

@@ -1,4 +1,4 @@
-package ocp.vehicles;
+package OpenClosedPrinciple.vehicles;
 
 public class Motorcycle extends Vehicle{
 

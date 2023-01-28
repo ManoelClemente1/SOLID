@@ -1,4 +1,4 @@
-package ocp.vehicles;
+package OpenClosedPrinciple.vehicles;
 
 public class Car implements IVehicleCar{
 

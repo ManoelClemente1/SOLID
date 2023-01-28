@@ -1,4 +1,4 @@
-package isp.vehicles;
+package InterfaceSegregationPrinciple.vehicles;
 
 public class Motorcycle implements IVehicle, IVehicleMotorcycle {
 

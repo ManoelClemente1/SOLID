@@ -1,4 +1,4 @@
-package lsp;
+package LiskovSubstituitionPrinciple;
 
 abstract public class Card implements IPaymentInstrument {
 
