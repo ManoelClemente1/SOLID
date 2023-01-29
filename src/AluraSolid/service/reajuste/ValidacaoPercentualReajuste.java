@@ -1,4 +1,4 @@
-package AluraSolid.service;
+package AluraSolid.service.reajuste;
 
 import AluraSolid.Exceptions.ValidacaoException;
 import AluraSolid.interfaces.ValidacaoReajuste;

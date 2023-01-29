@@ -1,4 +1,4 @@
-package AluraSolid.service;
+package AluraSolid.service.reajuste;
 
 import AluraSolid.interfaces.ValidacaoReajuste;
 import AluraSolid.model.Funcionario;
